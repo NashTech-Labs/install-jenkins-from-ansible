@@ -1,0 +1,1 @@
+<server name> ansible_host=<IP> ansible_ssh_pass=<password> ansible_connection=ssh ansible_port=22 ansible_user=<username> ansible_sudo_pass='<password>'
